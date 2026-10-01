@@ -1,0 +1,20 @@
+{
+  "name": "ci-cd",
+  "version": "1.0.0",
+  "description": "ci/cd tech",
+  "homepage": "https://github.com/sureshkumar9/ci-cd#readme",
+  "bugs": {
+    "url": "https://github.com/sureshkumar9/ci-cd/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sureshkumar9/ci-cd.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+  "test": "jest"
+  }
+}
